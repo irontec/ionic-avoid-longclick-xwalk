@@ -1,6 +1,10 @@
 {
   "name": "ionic-avoid-longclick-xwalk",
   "version": "0.0.1",
+  "dependencies": {
+    "angular": "1.2.16",
+    "ionic": "v1.0.0-beta.13"
+  },
   "authors": [
     "Jabi <jabi@irontec.com>"
   ],

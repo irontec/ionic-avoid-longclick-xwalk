@@ -1,0 +1,21 @@
+{
+  "name": "ionic-avoid-longclick-xwalk",
+  "version": "0.0.1",
+  "authors": [
+    "Jabi <jabi@irontec.com>"
+  ],
+  "description": "dirt workaround preventing longclick event on xwalk browsers",
+  "main": "avoid-longclick-xwalk.js",
+  "keywords": [
+    "xwalk",
+    "longclick"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
